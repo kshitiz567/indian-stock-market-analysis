@@ -1,3 +1,5 @@
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/kshitiz567/indian-stock-market-analysis)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kshitiz567/indian-stock-market-analysis/blob/main/notebooks/stock_analysis.ipynb)
 # 📈 Indian Stock Market Analysis
 
 <p align="left">
