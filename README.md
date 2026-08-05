@@ -1,14 +1,14 @@
 # 📈 Indian Stock Market Analysis
-# 📈 Indian Stock Market Analysis
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Latest-blue?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Latest-orange?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Stars](https://img.shields.io/github/stars/kshitiz567/indian-stock-market-analysis?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/kshitiz567/indian-stock-market-analysis)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.13-blue?logo=python">
+  <img src="https://img.shields.io/badge/Pandas-Latest-blue?logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-Latest-orange?logo=numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-green">
+  <img src="https://img.shields.io/badge/License-MIT-yellow">
+  <img src="https://img.shields.io/github/stars/kshitiz567/indian-stock-market-analysis?style=social">
+  <img src="https://img.shields.io/github/last-commit/kshitiz567/indian-stock-market-analysis">
+</p>
 
 ## 📌 Project Overview
 
