@@ -208,8 +208,7 @@ notebooks/stock_analysis.ipynb
 
 **Kshitiz Goyal**
 
-GitHub: https://github.com/kshitiz567
-
+Aspiring Data Analyst- Python, Excel & PowerBI
 ---
 
 # ⭐ If you found this project helpful
